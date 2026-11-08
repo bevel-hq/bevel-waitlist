@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except the main site files in the root
+!.gitignore
+!index.html
+!styles.css
+!script.js
